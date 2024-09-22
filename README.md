@@ -1,9 +1,17 @@
-# IoT_smarthome ![image](https://github.com/user-attachments/assets/df6c359c-0b14-4367-8a18-9761a3c0fe7a)
+# IoT_smarthome  <img src="https://github.com/user-attachments/assets/df6c359c-0b14-4367-8a18-9761a3c0fe7a" width="100" height="100" align="right">
+
+
+
+
+
+
+
 
 
 ## Description 
 This project uses an Arduino R4 WiFi Board and ArduinoCloud to simulate a smarthome. It can be controlled via Arduino Clound dashboard , or on 
 Arduino IoT Cloud Remote app for mobile devices.
+<img src="https://github.com/user-attachments/assets/181d8b14-c1d6-434c-a54f-86b5f8392630" width="100" height="100" align="right">
 
 ## Functionality 
 

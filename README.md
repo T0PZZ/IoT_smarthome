@@ -1,30 +1,30 @@
-# IoT_smarthome  <img src="https://github.com/user-attachments/assets/df6c359c-0b14-4367-8a18-9761a3c0fe7a" width="100" height="100" align="right">
-
-
-
-
-
-
-
-
-
+# IoT_smarthome  <img src="https://github.com/user-attachments/assets/df6c359c-0b14-4367-8a18-9761a3c0fe7a" width="100" height="100" align="right"> <img src="https://github.com/user-attachments/assets/181d8b14-c1d6-434c-a54f-86b5f8392630" width="100" height="100" align="right">
 ## Description 
+
 This project uses an Arduino R4 WiFi Board and ArduinoCloud to simulate a smarthome. It can be controlled via Arduino Clound dashboard , or on 
 Arduino IoT Cloud Remote app for mobile devices.
-<img src="https://github.com/user-attachments/assets/181d8b14-c1d6-434c-a54f-86b5f8392630" width="100" height="100" align="right">
 
 ## Functionality 
+<img src="https://github.com/user-attachments/assets/14d9953c-b391-4bb6-9357-d4eea15f8fed" width="100" height="100" align="right">
+<img src="https://github.com/user-attachments/assets/09c51f34-3add-48a0-9a37-54ff7c9f834b" width="100" height="100" align="right">
+<img src="https://github.com/user-attachments/assets/c845df46-6956-42ca-ad27-3f714f57903e" width="100" height="100" align="right">
+<img src="https://github.com/user-attachments/assets/fe90af9d-39ee-4749-a26d-ca0868e09273" width="100" height="100" align="right">
 
-1) Remote light control [^1]
-2) Dusk detection [^2]
+1) Remote light control [^1]  
+2) Dusk detection [^2] 
 3) Dimming light [^3]
 4) Automatic curtains [^4]
-5) Door/Window alarm sensor [^5]
-6) Movement detection [^6]
-7) Anti-theft alarm [^7] 
+5) Door/Window alarm sensor [^5] 
+6) Movement detection [^6]    
+7) Anti-theft alarm [^7]  
 8) Measuring temperature & humidity [^8]
+
+
+
+---
+
    
-<center>                   Use footnotes for more information </center>
+ Use footnotes for more information 
 
 [^1]: Simulates turning the light on/off in front of the building. 
 [^2]: If it's dark, and PIR sensor signals movement then outdoor light is turned on.
@@ -35,7 +35,10 @@ Arduino IoT Cloud Remote app for mobile devices.
 [^7]: When unarmed nothing changes. When armed it sends audio-visual signals (blinking light outside of the building and noisy beeping) to "scare off an intruder". Can be triggered by movement detection (PIR) or via door/window alarm sensor.
 [^8]: Real time readings of temperature [Celcius degrees] and humidity [%].
 ___ 
-   
+### Dashboard 
+<img src="https://github.com/user-attachments/assets/8f030152-c42f-45f5-97db-8d0630098eb7"  align="center">
+
+
 
 ## Libraries
 ```
@@ -61,3 +64,4 @@ ___
 |5-10 kOhm Photoresistor| GL5616 | 1 | 
 |Buzzer | any | 1| 
 
+<a href="https://www.flaticon.com/free-icons/motion-sensor" title="motion sensor icons">Motion sensor icons created by Freepik - Flaticon</a>

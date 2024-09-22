@@ -20,5 +20,5 @@
 |DC Motor driver|L298N|1|
 | 4x AA Battery Case|-| 1|
 | AA Battery| - | 4|
-| 5V DC motor | 48:1 gear ratio| 1 |
+| 5V DC motor 48:1 gear ratio|-| 1 |
 |5-10 kOhm Photoresistor| GL5616 | 1 | 
